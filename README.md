@@ -1,5 +1,9 @@
 # Phonebook App
 
+## Updates v.2.2:
+
+- Refactoring the App with RTK Query.
+
 ## Updates v.2.1:
 
 - Refactoring the App with Redux Toolkit, Redux Persist;
