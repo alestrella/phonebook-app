@@ -16,3 +16,13 @@
 - Added Toast notifications;
 - Creating the Contact form with Formik;
 - Implemented an input mask for phone number.
+
+## Updates v.1.1:
+
+- Added the feature to save to local storage;
+- Changed the styles to a dark theme.
+
+## Updates v.1.0:
+
+- Created a simple contact storage application. It consists of a form and a
+  contact list.
